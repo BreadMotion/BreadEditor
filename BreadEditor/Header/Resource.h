@@ -1,8 +1,4 @@
-﻿//{{NO_DEPENDENCIES}}
-// Microsoft Visual C++ で生成されたインクルード ファイルです。
-// 次で使用: BreadEditor.rc
-
-#define IDS_APP_TITLE			103
+﻿#define IDS_APP_TITLE			103
 
 #define IDR_MAINFRAME			128
 #define IDD_BREADEDITOR_DIALOG	102

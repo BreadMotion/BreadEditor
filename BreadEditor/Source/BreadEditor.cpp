@@ -1,7 +1,10 @@
-﻿// BreadEditor.cpp : アプリケーションのエントリ ポイントを定義します。
-//
-
-#include "framework.h"
+﻿#include <SDKDDKVer.h>
+#include <windows.h>
+#include <stdlib.h>
+#include <malloc.h>
+#include <memory.h>
+#include <tchar.h>
+#include "Resource.h"
 #include "BreadEditor.h"
 
 #define MAX_LOADSTRING 100

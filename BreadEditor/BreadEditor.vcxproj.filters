@@ -17,13 +17,7 @@
     <ClInclude Include="Header\BreadEditor.h">
       <Filter>Header</Filter>
     </ClInclude>
-    <ClInclude Include="Header\framework.h">
-      <Filter>Header</Filter>
-    </ClInclude>
     <ClInclude Include="Header\Resource.h">
-      <Filter>Header</Filter>
-    </ClInclude>
-    <ClInclude Include="Header\targetver.h">
       <Filter>Header</Filter>
     </ClInclude>
   </ItemGroup>
